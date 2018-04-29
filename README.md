@@ -8,7 +8,7 @@ Possible incorrect behavior in [solidity-coverage](https://github.com/sc-forks/s
 
 clone:
 ```
-
+git clone git@github.com:NFhbar/solcoverTest.git
 ```
 
 install:
