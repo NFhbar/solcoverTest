@@ -1,13 +1,13 @@
 TN:
 SF:/home/nico/Desktop/public_repos/solcoverTest/contracts/Ballot.sol
-FN:20,Ballot
+FN:20,
 FN:28,giveRightToVote
 FN:34,delegate
 FN:50,vote
 FN:58,winningProposal
 FNF:5
 FNH:1
-FNDA:1,Ballot
+FNDA:1,
 FNDA:0,giveRightToVote
 FNDA:0,delegate
 FNDA:0,vote
