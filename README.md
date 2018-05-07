@@ -1,5 +1,7 @@
 # Solidity Coverage Test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NFhbar/solcoverTest.svg)](https://greenkeeper.io/)
+
 ## Local test
 
 clone:
